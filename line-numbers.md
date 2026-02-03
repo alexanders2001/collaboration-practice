@@ -6,7 +6,7 @@
 #### 6
 #### 7 Alice was not here!
 #### 8
-#### 9 Github is awsome!
+#### 9 Github is really awsome!
 #### 10
 #### 11
 #### 12
